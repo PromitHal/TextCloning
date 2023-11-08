@@ -17,5 +17,7 @@ Shakespeare's text analysis
 ![image](https://github.com/PromitHal/TextCloning/assets/83832850/8ab5028a-cfdb-4b53-a4f7-49e0255494d4)
 
 
+![image](https://github.com/PromitHal/TextCloning/assets/83832850/72f783ad-aaa4-4a76-a327-03d0da81181c)
+
 
 
